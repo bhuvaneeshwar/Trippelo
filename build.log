@@ -1,0 +1,30 @@
+
+> fynoexplore@0.1.0 build
+> next build
+
+  Γû▓ Next.js 14.2.5
+  - Environments: .env.local
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/5) ...
+   Generating static pages (1/5) 
+   Generating static pages (2/5) 
+   Generating static pages (3/5) 
+ Γ£ô Generating static pages (5/5)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+Γöî Γùï /                                    16.5 kB         104 kB
+Γöö Γùï /_not-found                          871 B          87.9 kB
++ First Load JS shared by all            87 kB
+  Γö£ chunks/23-0c40d6df9b62e9bb.js        31.5 kB
+  Γö£ chunks/fd9d1056-62aaf4b921c84028.js  53.6 kB
+  Γöö other shared chunks (total)          1.86 kB
+
+
+Γùï  (Static)  prerendered as static content
+
